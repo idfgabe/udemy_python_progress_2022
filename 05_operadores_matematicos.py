@@ -1,12 +1,12 @@
 """
-+  - adicao
--  - subtracao
-*  - multiplicacao
-** - potenciacao
-/  - divisao retorna valor real
-// - divisao retorna valor inteiro
++  - adição
+-  - subtração
+*  - multiplicação
+** - potenciação
+/  - divisão retorna valor real
+// - divisão retorna valor inteiro
 %  - verificador de resto
-() - precedencia de valores
+() - precedência de valores
 """
 print('### INICIO DO POLIFORMISMO ###')
 print('Adicao e o resultado de 20 + 20: ', 20+20)         
