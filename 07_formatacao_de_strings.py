@@ -1,6 +1,6 @@
 """
-F-Strings no python e a concatenacao de strings e variaveis na mesma linha de codigo usando apenas o f antes de tudo
-:.2f = quantas casas decimais serao mostradas no console
+F-Strings no python é a concatenação de strings e variáveis na mesma linha de código usando apenas o 'f' antes de tudo
+>> :.2f = quantas casas decimais serão mostradas no console
 """
 nome = 'Gabriel'
 idade = 22
