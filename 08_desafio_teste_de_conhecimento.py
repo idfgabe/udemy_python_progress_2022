@@ -1,6 +1,6 @@
 """
-*Criar variaveis para nome, idade, altura e peso de uma pessoa
-*Criar variavel do ano atual 
+*Criar variáveis para nome, idade, altura e peso de uma pessoa
+*Criar variável do ano atual 
 *Obter o ano de nascimento da pessoa (baseado na idade e no ano atual)
 *Obter o IMC da pessoa com 2 casas decimais (peso e na altura da pessoa)
 *Exibir um texto com todos os valores na tela usado F-Strings (COM AS CHAVES)
