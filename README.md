@@ -25,7 +25,16 @@ Aula introdutória à criação de variáveis e ao operador de atribuição "=";
 Aula introdutória ao F-Strings, concatenação de strings e variáveis na mesma linha, e à formatação de numeros decimais usando ":.2f"; 
 
 #### 08 - [Desafio: Teste de Conhecimento](https://github.com/idfgabe/udemy_python_progress_2022/blob/main/08_desafio_teste_de_conhecimento.py) <br>
-Desafio proposto pelo instrutor com objetivo de testar os conhecimentos aplicados nas aulas anteriores.
+Desafio proposto pelo instrutor com objetivo de testar os conhecimentos aplicados nas aulas anteriores;
 
 #### 09 - [Input](https://github.com/idfgabe/udemy_python_progress_2022/blob/main/09_input.py) <br> 
-Aula sobre entrada de dados pelo usuário e como armazenar isso dentro de uma variável atraves da função input
+Aula sobre entrada de dados pelo usuário e como armazenar isso dentro de uma variável atraves da função input;
+ 
+#### 10 - [Condicionais](https://github.com/idfgabe/udemy_python_progress_2022/blob/main/10_condicionais.py) <br>
+Aula explicativa às estruturas condicionais usando IF, ELSE e ELIF;
+
+#### 11 - [Operadores Relacionais](https://github.com/idfgabe/udemy_python_progress_2022/blob/main/11_operadores_relacionais.py) <br>
+Aula introdutória aos operadores relacionais no Python e à aplicação deles em estruturas condicionais;
+
+#### 12 - [Operadores Lógicos](https://github.com/idfgabe/udemy_python_progress_2022/blob/main/12_operadores_logicos.py) <br>
+Aula sobre operadores lógicos no Python e sua aplicação prática nas estruturas condicionais;
