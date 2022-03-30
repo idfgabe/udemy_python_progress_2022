@@ -5,8 +5,8 @@ int - inteiro             ### positivos ou negativos    >> -1000, 1000, 0
 float - real/flutuante    ### numeros com decimais      >> 13.4, 7.05, 2.5
 bool - booleano           ### valores logicos           >> true ou false
 
-Para descobrir o tipo de dado usa-se da funcao type
-print('amendoin', type('amendoin'))
+Para descobrir o tipo de dado usa-se da função type
+print('amendoim', type('amendoim'))
 print(151651, type(151651))
 print(15.2, type(15.2))
 print(10==8, type(10==8))
