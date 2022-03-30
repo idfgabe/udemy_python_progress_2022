@@ -1,6 +1,6 @@
 """
-VARIAVEIS: devem iniciar com uma letra, podem conter numeros, devem ser separadas com "_" e devem conter apenas letras minusculas
-= - Atribuicao
+VARIÁVEIS: devem iniciar com uma letra, podem conter números, devem ser separadas com "_" e devem conter apenas letras minúsculas
+= - Atribuição
 """
 nome = 'Gabriel'
 idade = 22
